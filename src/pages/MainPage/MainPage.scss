@@ -1,0 +1,11 @@
+@import "@styles/variables";
+
+.main-page {
+
+  &__title {
+    font-size: 14px;
+    color: $title-secondary;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,11 @@
+@import '@styles/variables';
+
+.sidebar {
+  position: relative;
+  width: 200px;
+  height: 100vh;
+  z-index: 10;
+
+  background-color: $bg-primary;
+  border-right: 1px solid $border-color;
+}
